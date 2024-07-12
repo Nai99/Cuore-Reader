@@ -3,6 +3,9 @@
 ## 简介
 Cuore文本阅读器是一款基于CodeMirror的本地文本阅读器，使用HTML+CSS+JavaScript开发，可在各平台的浏览器上运行。
 
+##demo
+[体验地址](https://cuorereader.netlify.app/)
+
 ## 主要功能
 1. **自动分章**：支持中英文书籍和常规文档的自动分章功能。
 2. **阅读记忆**：记忆上次阅读的内容和进度（不支持大文件）。
