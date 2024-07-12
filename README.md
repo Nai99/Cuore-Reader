@@ -3,7 +3,7 @@
 ## 简介
 Cuore文本阅读器是一款基于CodeMirror的本地文本阅读器，使用HTML+CSS+JavaScript开发，可在各平台的浏览器上运行。
 
-##demo
+## Demo
 [体验地址](https://cuorereader.netlify.app/)
 
 ## 主要功能
